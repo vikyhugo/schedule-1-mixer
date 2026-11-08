@@ -1,0 +1,66 @@
+[
+    {
+        "id": "ogkush",
+        "displayName": "OG Kush",
+        "rank": "streetrat",
+        "rankTier": 1,
+        "basePrice": 35,
+        "effects": [
+            "calming"
+        ]
+    },
+    {
+        "id": "sourdiesel",
+        "displayName": "Sour Diesel",
+        "rank": "streetrat",
+        "rankTier": 4,
+        "basePrice": 35,
+        "effects": [
+            "refreshing"
+        ]
+    },
+    {
+        "id": "greencrack",
+        "displayName": "Green Crack",
+        "rank": "hoodlum",
+        "rankTier": 2,
+        "basePrice": 35,
+        "effects": [
+            "energizing"
+        ]
+    },
+    {
+        "id": "granddaddypurple",
+        "displayName": "Granddaddy Purple",
+        "rank": "hoodlum",
+        "rankTier": 4,
+        "basePrice": 35,
+        "effects": [
+            "sedating"
+        ]
+    },
+    {
+        "id": "meth",
+        "displayName": "Meth",
+        "rank": "hoodlum",
+        "rankTier": 1,
+        "basePrice": 70,
+        "effects": []
+    },
+    {
+        "id": "shroom",
+        "displayName": "Shroom",
+        "rank": "hoodlum",
+        "rankTier": 1,
+        "basePrice": 65,
+        "effects": []
+    },
+    {
+        "id": "cocaine",
+        "displayName": "Cocaine",
+        "rank": "enforcer",
+        "rankTier": 1,
+        "basePrice": 150,
+        "effects": []
+    }
+]

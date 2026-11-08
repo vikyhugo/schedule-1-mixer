@@ -1,0 +1,68 @@
+[
+    {
+        "id": "streetrat",
+        "displayName": "Street Rat",
+        "unbounded": false,
+        "tierXp": 200
+    },
+    {
+        "id": "hoodlum",
+        "displayName": "Hoodlum",
+        "unbounded": false,
+        "tierXp": 400
+    },
+    {
+        "id": "peddler",
+        "displayName": "Peddler",
+        "unbounded": false,
+        "tierXp": 625
+    },
+    {
+        "id": "hustler",
+        "displayName": "Hustler",
+        "unbounded": false,
+        "tierXp": 825
+    },
+    {
+        "id": "bagman",
+        "displayName": "Bagman",
+        "unbounded": false,
+        "tierXp": 1025
+    },
+    {
+        "id": "enforcer",
+        "displayName": "Enforcer",
+        "unbounded": false,
+        "tierXp": 1250
+    },
+    {
+        "id": "shotcaller",
+        "displayName": "Shot Caller",
+        "unbounded": false,
+        "tierXp": 1450
+    },
+    {
+        "id": "blockboss",
+        "displayName": "Block Boss",
+        "unbounded": false,
+        "tierXp": 1675
+    },
+    {
+        "id": "underlord",
+        "displayName": "Underlord",
+        "unbounded": false,
+        "tierXp": 1875
+    },
+    {
+        "id": "baron",
+        "displayName": "Baron",
+        "unbounded": false,
+        "tierXp": 2075
+    },
+    {
+        "id": "kingpin",
+        "displayName": "Kingpin",
+        "unbounded": true,
+        "tierXp": 2300
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "id": "cuke",
+        "displayName": "Cuke",
+        "price": 2,
+        "rank": "streetrat",
+        "rankTier": 1,
+        "baseEffect": "energizing",
+        "transformations": {
+            "Euphoric": "laxative",
+            "foggy": "cyclopean",
+            "gingeritis": "thoughtprovoking",
+            "munchies": "athletic",
+            "slippery": "munchies",
+            "sneaky": "paranoia",
+            "toxic": "Euphoric"
+        }
+    },
+    {
+        "id": "banana",
+        "displayName": "Banana",
+        "price": 2,
+        "rank": "streetrat",
+        "rankTier": 1,
+        "baseEffect": "gingeritis",
+        "transformations": {
+            "calming": "sneaky",
+            "cyclopean": "energizing",
+            "disorienting": "Focused",
+            "energizing": "thoughtprovoking",
+            "Focused": "seizure",
+            "giraffying": "refreshing",
+            "paranoia": "jennerising",
+            "smelly": "antigravity",
+            "toxic": "smelly"
+        }
+    },
+    {
+        "id": "paracetamol",
+        "displayName": "Paracetamol",
+        "price": 3,
+        "rank": "streetrat",
+        "rankTier": 1,
+        "baseEffect": "sneaky",
+        "transformations": {
+            "calming": "slippery",
+            "electrifying": "athletic",
+            "energizing": "paranoia",
+            "Focused": "gingeritis",
+            "foggy": "calming",
+            "glowie": "toxic",
+            "munchies": "antigravity",
+            "paranoia": "balding",
+            "spicy": "brighteyed",
+            "toxic": "tropicthunder"
+        }
+    },
+    {
+        "id": "donut",
+        "displayName": "Donut",
+        "price": 3,
+        "rank": "streetrat",
+        "rankTier": 1,
+        "baseEffect": "caloriedense",
+        "transformations": {
+            "antigravity": "slippery",
+            "balding": "sneaky",
+            "caloriedense": "explosive",
+            "Focused": "Euphoric",
+            "jennerising": "gingeritis",
+            "munchies": "calming",
+            "shrinking": "energizing"
+        }
+    },
+    {
+        "id": "viagor",
+        "displayName": "Viagor",
+        "price": 4,
+        "rank": "hoodlum",
+        "rankTier": 2,
+        "baseEffect": "tropicthunder",
+        "transformations": {
+            "athletic": "sneaky",
+            "disorienting": "toxic",
+            "Euphoric": "brighteyed",
+            "laxative": "calming",
+            "shrinking": "gingeritis"
+        }
+    },
+    {
+        "id": "mouthwash",
+        "displayName": "Mouth Wash",
+        "price": 4,
+        "rank": "hoodlum",
+        "rankTier": 3,
+        "baseEffect": "balding",
+        "transformations": {
+            "calming": "antigravity",
+            "caloriedense": "sneaky",
+            "explosive": "sedating",
+            "Focused": "jennerising"
+        }
+    },
+    {
+        "id": "flumedicine",
+        "displayName": "Flu Medicine",
+        "price": 5,
+        "rank": "hoodlum",
+        "rankTier": 4,
+        "baseEffect": "sedating",
+        "transformations": {
+            "athletic": "munchies",
+            "calming": "brighteyed",
+            "cyclopean": "foggy",
+            "electrifying": "refreshing",
+            "Euphoric": "toxic",
+            "Focused": "calming",
+            "laxative": "Euphoric",
+            "munchies": "slippery",
+            "shrinking": "paranoia",
+            "thoughtprovoking": "gingeritis"
+        }
+    },
+    {
+        "id": "gasoline",
+        "displayName": "Gasoline",
+        "price": 5,
+        "rank": "hoodlum",
+        "rankTier": 5,
+        "baseEffect": "toxic",
+        "transformations": {
+            "disorienting": "glowie",
+            "electrifying": "disorienting",
+            "energizing": "Euphoric",
+            "Euphoric": "spicy",
+            "gingeritis": "smelly",
+            "jennerising": "sneaky",
+            "laxative": "foggy",
+            "munchies": "sedating",
+            "paranoia": "calming",
+            "shrinking": "Focused",
+            "sneaky": "tropicthunder"
+        }
+    },
+    {
+        "id": "energydrink",
+        "displayName": "Energy Drink",
+        "price": 6,
+        "rank": "peddler",
+        "rankTier": 1,
+        "baseEffect": "athletic",
+        "transformations": {
+            "disorienting": "electrifying",
+            "Euphoric": "energizing",
+            "Focused": "shrinking",
+            "foggy": "laxative",
+            "glowie": "disorienting",
+            "schizophrenic": "balding",
+            "sedating": "munchies",
+            "spicy": "Euphoric",
+            "tropicthunder": "sneaky"
+        }
+    },
+    {
+        "id": "motoroil",
+        "displayName": "Motor Oil",
+        "price": 6,
+        "rank": "peddler",
+        "rankTier": 2,
+        "baseEffect": "slippery",
+        "transformations": {
+            "energizing": "munchies",
+            "Euphoric": "sedating",
+            "foggy": "toxic",
+            "munchies": "schizophrenic",
+            "paranoia": "antigravity"
+        }
+    },
+    {
+        "id": "megabean",
+        "displayName": "Mega Bean",
+        "price": 7,
+        "rank": "peddler",
+        "rankTier": 3,
+        "baseEffect": "foggy",
+        "transformations": {
+            "athletic": "laxative",
+            "calming": "glowie",
+            "energizing": "cyclopean",
+            "Focused": "disorienting",
+            "jennerising": "paranoia",
+            "seizure": "Focused",
+            "shrinking": "electrifying",
+            "slippery": "toxic",
+            "sneaky": "calming",
+            "thoughtprovoking": "energizing"
+        }
+    },
+    {
+        "id": "chili",
+        "displayName": "Chili",
+        "price": 7,
+        "rank": "peddler",
+        "rankTier": 4,
+        "baseEffect": "spicy",
+        "transformations": {
+            "antigravity": "tropicthunder",
+            "athletic": "Euphoric",
+            "laxative": "giraffying",
+            "munchies": "toxic",
+            "shrinking": "refreshing",
+            "sneaky": "brighteyed"
+        }
+    },
+    {
+        "id": "battery",
+        "displayName": "Battery",
+        "price": 8,
+        "rank": "peddler",
+        "rankTier": 5,
+        "baseEffect": "brighteyed",
+        "transformations": {
+            "cyclopean": "glowie",
+            "electrifying": "Euphoric",
+            "Euphoric": "zombifying",
+            "laxative": "caloriedense",
+            "munchies": "tropicthunder",
+            "shrinking": "munchies"
+        }
+    },
+    {
+        "id": "iodine",
+        "displayName": "Iodine",
+        "price": 8,
+        "rank": "hustler",
+        "rankTier": 1,
+        "baseEffect": "jennerising",
+        "transformations": {
+            "calming": "balding",
+            "caloriedense": "gingeritis",
+            "Euphoric": "seizure",
+            "foggy": "paranoia",
+            "refreshing": "thoughtprovoking",
+            "toxic": "sneaky"
+        }
+    },
+    {
+        "id": "addy",
+        "displayName": "Addy",
+        "price": 9,
+        "rank": "hustler",
+        "rankTier": 2,
+        "baseEffect": "thoughtprovoking",
+        "transformations": {
+            "explosive": "Euphoric",
+            "foggy": "energizing",
+            "glowie": "refreshing",
+            "giraffying": "electrifying",
+            "sedating": "gingeritis"
+        }
+    },
+    {
+        "id": "horsesemen",
+        "displayName": "Horse Semen",
+        "price": 9,
+        "rank": "hustler",
+        "rankTier": 3,
+        "baseEffect": "giraffying",
+        "transformations": {
+            "antigravity": "calming",
+            "gingeritis": "refreshing",
+            "seizure": "energizing",
+            "thoughtprovoking": "electrifying"
+        }
+    }
+]
