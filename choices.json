@@ -1,0 +1,86 @@
+[
+    {
+        "id": "weed_pot",
+        "displayName": "Pot",
+        "options": [
+            {
+                "id": "growtent",
+                "displayName": "Grow Tent",
+                "batchYield": -4
+            },
+            {
+                "id": "plasticpot",
+                "displayName": "Plastic Pot",
+                "rank": "peddler",
+                "rankTier": 1
+            },
+            {
+                "id": "moisturepreservingpot",
+                "displayName": "Moisture-Preserving Pot",
+                "rank": "peddler",
+                "rankTier": 1
+            },
+            {
+                "id": "airpot",
+                "displayName": "Air Pot",
+                "rank": "peddler",
+                "rankTier": 3
+            }
+        ]
+    },
+    {
+        "id": "coca_pot",
+        "displayName": "Pot",
+        "options": [
+            {
+                "id": "growtent",
+                "displayName": "Grow Tent",
+                "batchYield": -6
+            },
+            {
+                "id": "plasticpot",
+                "displayName": "Plastic Pot",
+                "rank": "peddler",
+                "rankTier": 1
+            },
+            {
+                "id": "moisturepreservingpot",
+                "displayName": "Moisture-Preserving Pot",
+                "rank": "peddler",
+                "rankTier": 1
+            },
+            {
+                "id": "airpot",
+                "displayName": "Air Pot",
+                "rank": "peddler",
+                "rankTier": 3
+            }
+        ]
+    },
+    {
+        "id": "pseudo_quality",
+        "displayName": "Pseudo quality",
+        "options": [
+            {
+                "id": "low",
+                "displayName": "Low-Grade",
+                "batchPrice": -20,
+                "rank": "hoodlum",
+                "rankTier": 1
+            },
+            {
+                "id": "standard",
+                "displayName": "Standard",
+                "rank": "hustler",
+                "rankTier": 3
+            },
+            {
+                "id": "high",
+                "displayName": "High-Grade",
+                "batchPrice": 30,
+                "rank": "bagman",
+                "rankTier": 5
+            }
+        ]
+    }
+]

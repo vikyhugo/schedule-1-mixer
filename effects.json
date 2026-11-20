@@ -3,210 +3,245 @@
         "id": "antigravity",
         "displayName": "Anti-Gravity",
         "displayColor": "rgb(35, 91, 203)",
-        "multiplier": 1.54
+        "multiplier": 0.54,
+        "addictiveness": 0.611
     },
     {
         "id": "athletic",
         "displayName": "Athletic",
         "displayColor": "rgb(117, 200, 253)",
-        "multiplier": 1.32
+        "multiplier": 0.32,
+        "addictiveness": 0.607
     },
     {
         "id": "balding",
         "displayName": "Balding",
         "displayColor": "rgb(199, 146, 50)",
-        "multiplier": 1.3
+        "multiplier": 0.3,
+        "addictiveness": 0
     },
     {
         "id": "brighteyed",
         "displayName": "Bright-Eyed",
         "displayColor": "rgb(190, 247, 253)",
-        "multiplier": 1.4
+        "multiplier": 0.4,
+        "addictiveness": 0.2
     },
     {
         "id": "calming",
         "displayName": "Calming",
         "displayColor": "rgb(254, 208, 155)",
-        "multiplier": 1.1
+        "multiplier": 0.1,
+        "addictiveness": 0
     },
     {
         "id": "caloriedense",
         "displayName": "Calorie-Dense",
         "displayColor": "rgb(254, 132, 244)",
-        "multiplier": 1.28
+        "multiplier": 0.28,
+        "addictiveness": 0.1
     },
     {
         "id": "cyclopean",
         "displayName": "Cyclopean",
         "displayColor": "rgb(254, 193, 116)",
-        "multiplier": 1.56
+        "multiplier": 0.56,
+        "addictiveness": 0.1
     },
     {
         "id": "disorienting",
         "displayName": "Disorienting",
         "displayColor": "rgb(254, 117, 81)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "electrifying",
         "displayName": "Electrifying",
         "displayColor": "rgb(85, 200, 253)",
-        "multiplier": 1.5
+        "multiplier": 0.5,
+        "addictiveness": 0.235
     },
     {
         "id": "energizing",
         "displayName": "Energizing",
         "displayColor": "rgb(154, 254, 109)",
-        "multiplier": 1.22
+        "multiplier": 0.22,
+        "addictiveness": 0.34
     },
     {
         "id": "Euphoric",
         "displayName": "Euphoric",
         "displayColor": "rgb(254, 234, 116)",
-        "multiplier": 1.18
+        "multiplier": 0.18,
+        "addictiveness": 0.235
     },
     {
         "id": "explosive",
         "displayName": "Explosive",
         "displayColor": "rgb(254, 75, 64)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "Focused",
         "displayName": "Focused",
         "displayColor": "rgb(117, 241, 253)",
-        "multiplier": 1.16
+        "multiplier": 0.16,
+        "addictiveness": 0.104
     },
     {
         "id": "foggy",
         "displayName": "Foggy",
         "displayColor": "rgb(176, 176, 175)",
-        "multiplier": 1.36
+        "multiplier": 0.36,
+        "addictiveness": 0.1
     },
     {
         "id": "gingeritis",
         "displayName": "Gingeritis",
         "displayColor": "rgb(254, 136, 41)",
-        "multiplier": 1.2
+        "multiplier": 0.2,
+        "addictiveness": 0
     },
     {
         "id": "glowie",
         "displayName": "Glowing",
         "displayColor": "rgb(133, 228, 89)",
-        "multiplier": 1.48
+        "multiplier": 0.48,
+        "addictiveness": 0.472
     },
     {
         "id": "jennerising",
         "displayName": "Jennerising",
         "displayColor": "rgb(254, 141, 248)",
-        "multiplier": 1.42
+        "multiplier": 0.42,
+        "addictiveness": 0.343
     },
     {
         "id": "laxative",
         "displayName": "Laxative",
         "displayColor": "rgb(118, 60, 37)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0.1
     },
     {
         "id": "lethal",
         "displayName": "Lethal",
         "displayColor": "rgb(159, 43, 34)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "giraffying",
         "displayName": "Long Faced",
         "displayColor": "rgb(254, 217, 97)",
-        "multiplier": 1.52
+        "multiplier": 0.52,
+        "addictiveness": 0.607
     },
     {
         "id": "munchies",
         "displayName": "Munchies",
         "displayColor": "rgb(201, 110, 87)",
-        "multiplier": 1.12
+        "multiplier": 0.12,
+        "addictiveness": 0.096
     },
     {
         "id": "paranoia",
         "displayName": "Paranoia",
         "displayColor": "rgb(196, 103, 98)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "refreshing",
         "displayName": "Refreshing",
         "displayColor": "rgb(178, 254, 152)",
-        "multiplier": 1.14
+        "multiplier": 0.14,
+        "addictiveness": 0.104
     },
     {
         "id": "schizophrenic",
         "displayName": "Schizophrenic",
         "displayColor": "rgb(100, 90, 253)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "sedating",
         "displayName": "Sedating",
         "displayColor": "rgb(107, 95, 216)",
-        "multiplier": 1.26
+        "multiplier": 0.26,
+        "addictiveness": 0
     },
     {
         "id": "seizure",
         "displayName": "Seizure-Inducing",
         "displayColor": "rgb(254, 233, 0)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "shrinking",
         "displayName": "Shrinking",
         "displayColor": "rgb(182, 254, 218)",
-        "multiplier": 1.6
+        "multiplier": 0.6,
+        "addictiveness": 0.336
     },
     {
         "id": "slippery",
         "displayName": "Slippery",
         "displayColor": "rgb(162, 223, 253)",
-        "multiplier": 1.34
+        "multiplier": 0.34,
+        "addictiveness": 0.309
     },
     {
         "id": "smelly",
         "displayName": "Smelly",
         "displayColor": "rgb(125, 188, 49)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "sneaky",
         "displayName": "Sneaky",
         "displayColor": "rgb(123, 123, 123)",
-        "multiplier": 1.24
+        "multiplier": 0.24,
+        "addictiveness": 0.327
     },
     {
         "id": "spicy",
         "displayName": "Spicy",
         "displayColor": "rgb(254, 107, 76)",
-        "multiplier": 1.38
+        "multiplier": 0.38,
+        "addictiveness": 0.665
     },
     {
         "id": "thoughtprovoking",
         "displayName": "Thought-Provoking",
         "displayColor": "rgb(254, 160, 203)",
-        "multiplier": 1.44
+        "multiplier": 0.44,
+        "addictiveness": 0.37
     },
     {
         "id": "toxic",
         "displayName": "Toxic",
         "displayColor": "rgb(95, 154, 49)",
-        "multiplier": 1
+        "multiplier": 0,
+        "addictiveness": 0
     },
     {
         "id": "tropicthunder",
         "displayName": "Tropic Thunder",
         "displayColor": "rgb(254, 159, 71)",
-        "multiplier": 1.46
+        "multiplier": 0.46,
+        "addictiveness": 0.803
     },
     {
         "id": "zombifying",
         "displayName": "Zombifying",
         "displayColor": "rgb(113, 171, 93)",
-        "multiplier": 1.58
+        "multiplier": 0.58,
+        "addictiveness": 0.598
     }
 ]

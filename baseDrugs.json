@@ -2,9 +2,16 @@
     {
         "id": "ogkush",
         "displayName": "OG Kush",
+        "batchPrice": 40,
+        "batchYield": 12,
+        "choices": [
+            "weed_pot"
+        ],
         "rank": "streetrat",
         "rankTier": 1,
         "basePrice": 35,
+        "baseAddictiveness": 0,
+        "mixAddictivenessBonus": 0.05,
         "effects": [
             "calming"
         ]
@@ -12,9 +19,16 @@
     {
         "id": "sourdiesel",
         "displayName": "Sour Diesel",
+        "batchPrice": 45,
+        "batchYield": 12,
+        "choices": [
+            "weed_pot"
+        ],
         "rank": "streetrat",
         "rankTier": 4,
         "basePrice": 35,
+        "baseAddictiveness": 0,
+        "mixAddictivenessBonus": 0.05,
         "effects": [
             "refreshing"
         ]
@@ -22,9 +36,16 @@
     {
         "id": "greencrack",
         "displayName": "Green Crack",
+        "batchPrice": 50,
+        "batchYield": 12,
+        "choices": [
+            "weed_pot"
+        ],
         "rank": "hoodlum",
         "rankTier": 2,
         "basePrice": 35,
+        "baseAddictiveness": 0,
+        "mixAddictivenessBonus": 0.05,
         "effects": [
             "energizing"
         ]
@@ -32,9 +53,16 @@
     {
         "id": "granddaddypurple",
         "displayName": "Granddaddy Purple",
+        "batchPrice": 55,
+        "batchYield": 12,
+        "choices": [
+            "weed_pot"
+        ],
         "rank": "hoodlum",
         "rankTier": 4,
         "basePrice": 35,
+        "baseAddictiveness": 0,
+        "mixAddictivenessBonus": 0.05,
         "effects": [
             "sedating"
         ]
@@ -42,25 +70,44 @@
     {
         "id": "meth",
         "displayName": "Meth",
+        "batchPrice": 160,
+        "batchYield": 10,
+        "choices": [
+            "pseudo_quality"
+        ],
         "rank": "hoodlum",
         "rankTier": 1,
         "basePrice": 70,
+        "baseAddictiveness": 0.6,
+        "mixAddictivenessBonus": 0,
         "effects": []
     },
     {
         "id": "shroom",
         "displayName": "Shroom",
+        "batchPrice": 190,
+        "batchYield": 16,
+        "choices": [],
         "rank": "hoodlum",
         "rankTier": 1,
         "basePrice": 65,
+        "baseAddictiveness": 0.05,
+        "mixAddictivenessBonus": 0,
         "effects": []
     },
     {
         "id": "cocaine",
         "displayName": "Cocaine",
+        "batchPrice": 265,
+        "batchYield": 10,
+        "choices": [
+            "coca_pot"
+        ],
         "rank": "enforcer",
         "rankTier": 1,
         "basePrice": 150,
+        "baseAddictiveness": 0.4,
+        "mixAddictivenessBonus": 0,
         "effects": []
     }
 ]

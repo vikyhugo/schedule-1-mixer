@@ -1,68 +1,79 @@
 [
     {
+        "index": 0,
         "id": "streetrat",
         "displayName": "Street Rat",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 200
     },
     {
+        "index": 1,
         "id": "hoodlum",
         "displayName": "Hoodlum",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 400
     },
     {
+        "index": 2,
         "id": "peddler",
         "displayName": "Peddler",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 625
     },
     {
+        "index": 3,
         "id": "hustler",
         "displayName": "Hustler",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 825
     },
     {
+        "index": 4,
         "id": "bagman",
         "displayName": "Bagman",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 1025
     },
     {
+        "index": 5,
         "id": "enforcer",
         "displayName": "Enforcer",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 1250
     },
     {
+        "index": 6,
         "id": "shotcaller",
         "displayName": "Shot Caller",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 1450
     },
     {
+        "index": 7,
         "id": "blockboss",
         "displayName": "Block Boss",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 1675
     },
     {
+        "index": 8,
         "id": "underlord",
         "displayName": "Underlord",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 1875
     },
     {
+        "index": 9,
         "id": "baron",
         "displayName": "Baron",
-        "unbounded": false,
+        "bound": 5,
         "tierXp": 2075
     },
     {
+        "index": 10,
         "id": "kingpin",
         "displayName": "Kingpin",
-        "unbounded": true,
+        "bound": -1,
         "tierXp": 2300
     }
 ]
